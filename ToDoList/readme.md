@@ -16,8 +16,8 @@
     <li>vi) A informação da prioridade deve ter cores personalizadas;</li>
     <li>vii) Deve existir a opção de filtrar a lista por prioridade;</li>
     <li>viii) Deve existir a opção de filtrar a lista por data de execução e por data de criação da tarefa;</li>
-    <li>Ao clicar em alguma tarefa da lista, o usuário deve ser levado para outra tela que trará todas as informações da tarefa de maneira bem estruturada- detalhes
+    <li>ix)Ao clicar em alguma tarefa da lista, o usuário deve ser levado para outra tela que trará todas as informações da tarefa de maneira bem estruturada- detalhes
         da tarefa;</li>
-    <li>Nessa tela, deverá existir uma opção para que o usuário possa editar todos os campos da tarefa;</li>
-    <li>Também deve existir a opção de exclusão na tela de detalhes;</li>
+    <li>x)Nessa tela, deverá existir uma opção para que o usuário possa editar todos os campos da tarefa;</li>
+    <li>xi)Também deve existir a opção de exclusão na tela de detalhes;</li>
 </ul>
